@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Inzamam ul Islam Nirob</h1>
 
-<img src="https://github.com/InzamamNirob997/Logo/blob/main/Untitled%20design.gif" alt="Your GIF" width="100%" />
-
 <h3 align="center">𝐀 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐒𝐐𝐀 & 𝐟𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐅𝐫𝐨𝐦 𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡</h3>
 
 <img src="https://github.com/InzamamNirob997/Logo/blob/main/1667314910275.png" alt="Your Image" width="100%" />
