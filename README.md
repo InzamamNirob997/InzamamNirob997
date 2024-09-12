@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **SQA tester**
 
-- 👨‍💻 All of my projects are available at [https://inzamamnirob.netlify.app/](https://inzamamnirob.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/InzamamNirob997?tab=repositories](https://github.com/InzamamNirob997?tab=repositories)
 
 - 📝 I regularly write articles on [https://inzamamnirob.netlify.app/](https://inzamamnirob.netlify.app/)
 
